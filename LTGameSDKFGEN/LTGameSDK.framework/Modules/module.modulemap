@@ -1,0 +1,6 @@
+framework module LTGameSDK {
+  umbrella header "LTGameSDK.h"
+
+  export *
+  module * { export * }
+}

@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "LTGameSDKFGEN"
-  s.version      = "0.0.6"
+  s.version      = "0.0.8"
   s.summary      = "This is a share sdk LTGameSDKFGEN."
 
   # This description is used to generate tags and improve search results.
